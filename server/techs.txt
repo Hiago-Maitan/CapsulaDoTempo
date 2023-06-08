@@ -1,0 +1,7 @@
+ReactJs
+Typescript
+Fastify
+Nodejs
+EsLint - padronização de projeto
+Prisma - ferramenta para trabalhar com banco de Dados de maneira mais amigável
+SqLite - Banco de Dados filebase
