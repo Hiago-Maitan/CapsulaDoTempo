@@ -75,7 +75,7 @@ export default function App() {
           onPress={() => signInWithGithub()}
         >
           <Text className="font-alt text-sm uppercase text-black">
-            COMEÇAR A CADASTRAR
+            CADASTRAR MEMÓRIA
           </Text>
         </TouchableOpacity>
       </View>
